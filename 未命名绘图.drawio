@@ -20,7 +20,7 @@
         <mxCell id="y-bz2ffvv3kcDiEg6pq3-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="y-bz2ffvv3kcDiEg6pq3-1" target="y-bz2ffvv3kcDiEg6pq3-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y-bz2ffvv3kcDiEg6pq3-1" value="热点阈值配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y-bz2ffvv3kcDiEg6pq3-1" value="热点阈值配置&lt;br&gt;(动态计算)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="120" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y-bz2ffvv3kcDiEg6pq3-3" value="Node1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
