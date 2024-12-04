@@ -261,7 +261,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5JgAqrmktY2PKb0C4c1k-63" value="直播评论集群" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="900.05" y="360" width="103" height="30" as="geometry" />
+          <mxGeometry x="932" y="360" width="103" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
