@@ -250,10 +250,12 @@
           <mxGeometry x="477.5" y="540" width="41" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5JgAqrmktY2PKb0C4c1k-58" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="240" y="477" width="63" height="60" as="geometry" />
+          <mxGeometry x="240" y="485" width="63" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5JgAqrmktY2PKb0C4c1k-59" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.081;entryY=0.783;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5JgAqrmktY2PKb0C4c1k-58" target="5JgAqrmktY2PKb0C4c1k-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5JgAqrmktY2PKb0C4c1k-59" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.081;entryY=0.783;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5JgAqrmktY2PKb0C4c1k-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="402.43000000000006" y="514.2560000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5JgAqrmktY2PKb0C4c1k-60" value="&lt;font color=&quot;#ff6666&quot;&gt;&lt;b&gt;轮训拉取&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="5JgAqrmktY2PKb0C4c1k-59">
           <mxGeometry x="-0.1082" y="4" relative="1" as="geometry">
