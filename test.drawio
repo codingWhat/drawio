@@ -388,13 +388,13 @@
         <mxCell id="l3CRM8mnHipl3SCw9-9n-68" value="用户更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000.8000000000001" y="901.5" width="85" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="l3CRM8mnHipl3SCw9-9n-69" value="数据层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l3CRM8mnHipl3SCw9-9n-69" value="业务模型层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="1079" width="80" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="l3CRM8mnHipl3SCw9-9n-70" value="数据层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l3CRM8mnHipl3SCw9-9n-70" value="服务层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="976.5" width="80" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="l3CRM8mnHipl3SCw9-9n-71" value="数据层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l3CRM8mnHipl3SCw9-9n-71" value="应用层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="909.5" width="80" height="31" as="geometry" />
         </mxCell>
       </root>
