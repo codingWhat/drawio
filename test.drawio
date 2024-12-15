@@ -230,16 +230,16 @@
           <mxGeometry x="904.05" y="609.5" width="85.45" height="29.5" as="geometry" />
         </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-3" value="视频信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="651.1" y="506" width="77.9" height="51" as="geometry" />
+          <mxGeometry x="652.1" y="506" width="77.9" height="51" as="geometry" />
         </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-5" value="索引信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="745.15" y="506" width="77.9" height="51" as="geometry" />
+          <mxGeometry x="752.15" y="506" width="77.9" height="51" as="geometry" />
         </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-6" value="用户信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="848.8" y="506" width="77.9" height="51" as="geometry" />
         </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-7" value="评论信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="948.05" y="506" width="77.9" height="51" as="geometry" />
+          <mxGeometry x="946.05" y="506" width="77.9" height="51" as="geometry" />
         </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-11" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;strokeColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="761.0999999999999" y="565" width="29.95" height="37" as="geometry" />
