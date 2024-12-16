@@ -723,7 +723,7 @@
           <mxGeometry x="686.05" y="2782.5" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-256" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="453.4" y="2890" width="670.5" height="110" as="geometry" />
+          <mxGeometry x="453.4" y="2890" width="670.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-259" value="直播评论轮询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="504.9" y="2915" width="120" height="60" as="geometry" />
@@ -732,10 +732,10 @@
           <mxGeometry x="317.65" y="2925" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-265" value="直播历史评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="641.9300000000001" y="2915" width="120" height="60" as="geometry" />
+          <mxGeometry x="659.4300000000001" y="2915" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-266" value="直播评论发布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="843.95" y="2915" width="120" height="60" as="geometry" />
+          <mxGeometry x="913.75" y="2915" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
