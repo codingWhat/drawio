@@ -598,7 +598,7 @@
         <mxCell id="l3CRM8mnHipl3SCw9-9n-343" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.011;entryY=0.199;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="l3CRM8mnHipl3SCw9-9n-195" target="l3CRM8mnHipl3SCw9-9n-342">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l3CRM8mnHipl3SCw9-9n-195" value="珊瑚写接入层" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="l3CRM8mnHipl3SCw9-9n-195" value="珊瑚写接入层&lt;div&gt;(频控、鉴权)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="771" y="2989" width="249" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-198" value="天网审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -859,9 +859,6 @@
         </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-354" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;(酒仙桥/科创 双可用区混部)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="775.53" y="3325" width="128.95" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="l3CRM8mnHipl3SCw9-9n-355" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;(酒仙桥/科创 双可用区混部)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="970.05" y="3325" width="128.95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-356" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;(酒仙桥/科创 双可用区混部)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1136" y="3325" width="128.95" height="30" as="geometry" />
