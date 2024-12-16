@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
-    <mxGraphModel dx="3003.5" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2482.5" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="453.12" y="2720" width="670.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-255" value="路由分发层 DIspatch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="512.1" y="2779.75" width="535.5" height="38.5" as="geometry" />
+          <mxGeometry x="480" y="2779.75" width="610" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80.95" y="1540" width="1230.95" height="990" as="geometry" />
@@ -597,11 +597,6 @@
         <mxCell id="l3CRM8mnHipl3SCw9-9n-186" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="317.65" y="2570" width="831" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="l3CRM8mnHipl3SCw9-9n-190" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="l3CRM8mnHipl3SCw9-9n-189">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="789.1979999999999" y="2755" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-191" value="直播评论拉取接口" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460.91" y="3046" width="120" height="60" as="geometry" />
         </mxCell>
@@ -717,25 +712,25 @@
           <mxGeometry x="530" y="2730.75" width="307.95" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-253" value="http接入层conn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="913.75" y="2733" width="103.9" height="35" as="geometry" />
+          <mxGeometry x="903.75" y="2734.25" width="136.25" height="35" as="geometry" />
         </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-254" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Application_Gateway.svg;" vertex="1" parent="1">
           <mxGeometry x="686.05" y="2782.5" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-256" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="453.4" y="2890" width="670.5" height="100" as="geometry" />
+          <mxGeometry x="453.4" y="2890" width="670.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-259" value="直播评论轮询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="504.9" y="2915" width="120" height="60" as="geometry" />
+          <mxGeometry x="470.40999999999997" y="2910" width="250" height="45" as="geometry" />
         </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-264" value="业务层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="317.65" y="2925" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l3CRM8mnHipl3SCw9-9n-265" value="直播历史评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="659.4300000000001" y="2915" width="120" height="60" as="geometry" />
+        <mxCell id="l3CRM8mnHipl3SCw9-9n-265" value="直播历史评论查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="733.5" y="2910" width="160.89" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="l3CRM8mnHipl3SCw9-9n-266" value="直播评论发布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="913.75" y="2915" width="120" height="60" as="geometry" />
+        <mxCell id="l3CRM8mnHipl3SCw9-9n-266" value="评论发布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="951.55" y="2910" width="145.65" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
