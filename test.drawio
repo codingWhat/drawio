@@ -809,9 +809,6 @@
         <mxCell id="l3CRM8mnHipl3SCw9-9n-331" value="boss" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1480.0000000000002" y="3100.5" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="l3CRM8mnHipl3SCw9-9n-332" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;评论后台-北京集群&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="2730" width="147.95" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-348" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="l3CRM8mnHipl3SCw9-9n-333" target="l3CRM8mnHipl3SCw9-9n-344">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
