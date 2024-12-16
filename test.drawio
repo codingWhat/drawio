@@ -608,7 +608,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-195" value="珊瑚写接入层&lt;div&gt;(频控、鉴权)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="771" y="2989" width="249" height="60" as="geometry" />
+          <mxGeometry x="769" y="2992" width="249" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-198" value="天网审核" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1166.38" y="2990" width="103.62" height="238" as="geometry" />
@@ -828,7 +828,7 @@
           <mxGeometry x="1043.65" y="2989" width="76.35" height="161" as="geometry" />
         </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-344" value="珊瑚读逻辑层" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="896.67" y="3082" width="125.95" height="58" as="geometry" />
+          <mxGeometry x="893.67" y="3082" width="125.95" height="58" as="geometry" />
         </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-345" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.015;entryY=0.342;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="l3CRM8mnHipl3SCw9-9n-342" target="l3CRM8mnHipl3SCw9-9n-198" edge="1">
           <mxGeometry relative="1" as="geometry" />
