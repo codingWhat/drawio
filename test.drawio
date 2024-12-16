@@ -1087,10 +1087,24 @@
           <mxGeometry x="568.55" y="3717" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dbA3OKfuxRLVnZrGTJZ9-73" value="打开断路器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="480" y="3717" width="89" height="30" as="geometry" />
+          <mxGeometry x="627.7" y="3707" width="89" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dbA3OKfuxRLVnZrGTJZ9-75" value="是否打开" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="211" y="3781" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dbA3OKfuxRLVnZrGTJZ9-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;exitX=0.286;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="588.93" y="3727.6" as="sourcePoint" />
+            <mxPoint x="433.0049999999998" y="3800.0048300000003" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="432.93" y="3727.6" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dbA3OKfuxRLVnZrGTJZ9-78" value="异步主动探测" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="dbA3OKfuxRLVnZrGTJZ9-77">
+          <mxGeometry x="-0.0057" y="1" relative="1" as="geometry">
+            <mxPoint x="18" y="-2" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
