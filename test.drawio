@@ -614,10 +614,10 @@
           <mxGeometry x="287" y="2872.5" width="147" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-211" value="&lt;b&gt;服务层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="306.65000000000003" y="3094" width="100" height="30" as="geometry" />
+          <mxGeometry x="310.65000000000003" y="3094" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-212" value="&lt;b&gt;存储层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="315.49999999999994" y="3309" width="100" height="30" as="geometry" />
+          <mxGeometry x="307.6499999999999" y="3309" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l3CRM8mnHipl3SCw9-9n-217" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1310" y="2950" width="100" height="420" as="geometry" />
