@@ -1186,7 +1186,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dbA3OKfuxRLVnZrGTJZ9-98" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;异步主动探测&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="dbA3OKfuxRLVnZrGTJZ9-97">
+        <mxCell id="dbA3OKfuxRLVnZrGTJZ9-98" value="&lt;span style=&quot;background-color: rgb(255, 255, 102);&quot;&gt;halfOpen-主动探测&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="dbA3OKfuxRLVnZrGTJZ9-97">
           <mxGeometry x="-0.0057" y="1" relative="1" as="geometry">
             <mxPoint x="18" y="-2" as="offset" />
           </mxGeometry>
